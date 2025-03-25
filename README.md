@@ -1,5 +1,5 @@
 ## Hi there 👋
-![snake gif](https://github.com/evaahiso/evaahiso/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/{evaahiso}/{evaahiso}/output/github-contribution-grid-snake-dark.svg)
 <!--
 **evaahiso/evaahiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -11,4 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![snake gif](https://github.com/evaahiso/evaahiso/blob/output/github-contribution-grid-snake.gif)
 -->
